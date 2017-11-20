@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b3b921ce845866043b7d696ef4e74a40
+timeCreated: 1494297446
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Choplin
+  fontNames:
+  - Choplin
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

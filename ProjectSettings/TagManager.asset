@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Puck
+  - redGoal
+  - blueTag
+  - blueGoal
+  - team1Score
+  - team2Score
+  - sizePickup
+  - bullet
+  - PowerUp
+  - blocker
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - P1
+  - P2
+  - Puck
+  - ArenaBlock1
+  - ArenaBlock2
+  - blocker
+  - Platform
+  - Ghost
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

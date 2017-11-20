@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a23b53fd9adbe964c83b08b2f3317e0f
+timeCreated: 1498535419
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GT Walsheim Pro
+  fontNames:
+  - GT Walsheim Pro
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
